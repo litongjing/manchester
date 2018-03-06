@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="service-feign" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
         <module name="spcclient" />
         <module name="spcclient1" />
         <module name="spcserver" />
@@ -17,6 +18,7 @@
       <module name="manchester" target="1.5" />
       <module name="service-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="spcclient" target="1.8" />
       <module name="spcclient1" target="1.8" />
       <module name="spcserver" target="1.8" />

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/manchester.iml" filepath="$PROJECT_DIR$/manchester.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spcclient/spcclient.iml" filepath="$PROJECT_DIR$/spcclient/spcclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/spcclient1/spcclient1.iml" filepath="$PROJECT_DIR$/spcclient1/spcclient1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spcserver/spcserver.iml" filepath="$PROJECT_DIR$/spcserver/spcserver.iml" />
