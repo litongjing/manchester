@@ -18,5 +18,7 @@
         <module>spcserver</module>
 
         <module>service-ribbon</module>
+
+        <module>service-feign</module>
     </modules>
 </project>
