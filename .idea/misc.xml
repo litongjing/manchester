@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spcserver/pom.xml" />
         <option value="$PROJECT_DIR$/spcclient1/pom.xml" />
         <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
   </component>
