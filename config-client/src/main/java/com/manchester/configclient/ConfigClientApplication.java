@@ -17,10 +17,11 @@ public class ConfigClientApplication {
     }
 
 
-//    @Value("${foo}")
-//    String foo;
-//    @RequestMapping(value = "/hi")
-//    public String hi(){
-//        return foo;
-//    }
+    @Value("${foo}")
+    String foo;
+    @RequestMapping(value = "/hi")
+    public String hi(){
+        System.out.println("yes success");
+        return foo;
+    }
 }
