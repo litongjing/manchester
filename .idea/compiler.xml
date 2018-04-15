@@ -11,6 +11,8 @@
         <module name="config-server" />
         <module name="configserver" />
         <module name="eureka-server" />
+        <module name="man-eureka-client" />
+        <module name="man-eureka-server" />
         <module name="service-feign" />
         <module name="service-ribbon" />
         <module name="service-zuul" />
@@ -24,6 +26,8 @@
       <module name="config-server" target="1.8" />
       <module name="configserver" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="man-eureka-client" target="1.8" />
+      <module name="man-eureka-server" target="1.8" />
       <module name="manchester" target="1.5" />
       <module name="service-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
